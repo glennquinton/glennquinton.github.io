@@ -1,2 +1,28 @@
 h1{
-     
+	font-style: cursive;
+	background-color: blue;
+	text-align: center;
+} 
+hr{ 
+	margin-right: 26px;
+	margin-left: 26px;
+
+ }
+ img{
+ 	width: 500px;
+ 	margin: auto;
+ 	display: block;
+
+ }
+ p{
+ 	background-color: blue;
+ 	padding: 20px;
+ 	font-family: cursive;
+ 	text-align: center;
+
+ }
+ body{background-color: blue;
+ }
+ blockquote{background-color: tomato;
+
+ }
